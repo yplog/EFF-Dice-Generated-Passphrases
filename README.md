@@ -1,1 +1,1 @@
-# EFF-Dice-Generated-Passphrases
+# EFF Dice Generated Passphrases
